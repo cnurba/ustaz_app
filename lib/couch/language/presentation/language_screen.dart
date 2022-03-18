@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:muslim_app/couch/language/presentation/widgets/language_step_button.dart';
 
@@ -13,7 +14,7 @@ class LanguageScreen extends StatelessWidget {
       body: ListView(
         padding: const EdgeInsets.all(16),
         children: [
-          const LanguageStepButton(title: 'Бул\nэмне?'),
+          LanguageStepButton(title: 'Бул\nэмне?'),
           const SizedBox(height: 20),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
