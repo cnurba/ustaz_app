@@ -1,15 +1,14 @@
 import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
-
-import 'package:muslim_app/couch/tajwid/infrastructure/nun/nun_type.dart';
+import 'package:muslim_app/couch/tajwid/infrastructure/models/nun/nun_type.dart';
 
 class Nun {
-   final int id;
+  final int id;
   final String title;
   final String titleAr;
   final String desc;
-  final List<NunType> types; 
+  final List<NunType> types;
   Nun({
     required this.id,
     required this.title,
@@ -66,21 +65,21 @@ class Nun {
   @override
   bool operator ==(Object other) {
     if (identical(this, other)) return true;
-  
+
     return other is Nun &&
-      other.id == id &&
-      other.title == title &&
-      other.titleAr == titleAr &&
-      other.desc == desc &&
-      listEquals(other.types, types);
+        other.id == id &&
+        other.title == title &&
+        other.titleAr == titleAr &&
+        other.desc == desc &&
+        listEquals(other.types, types);
   }
 
   @override
   int get hashCode {
     return id.hashCode ^
-      title.hashCode ^
-      titleAr.hashCode ^
-      desc.hashCode ^
-      types.hashCode;
+        title.hashCode ^
+        titleAr.hashCode ^
+        desc.hashCode ^
+        types.hashCode;
   }
 }

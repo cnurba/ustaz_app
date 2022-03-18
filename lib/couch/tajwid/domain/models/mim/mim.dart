@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
-import 'package:muslim_app/couch/tajwid/infrastructure/mim/mim_type.dart';
+import 'package:muslim_app/couch/tajwid/infrastructure/models/mim/mim_type.dart';
 
 class Mim {
   final int id;
@@ -25,7 +25,7 @@ class Mim {
       id: id ?? this.id,
       title: title ?? this.title,
       titleAr: titleAr ?? this.titleAr,
-      types: types ?? this.types,     
+      types: types ?? this.types,
     );
   }
 
