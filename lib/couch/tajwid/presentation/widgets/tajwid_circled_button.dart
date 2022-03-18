@@ -14,7 +14,7 @@ class TajwidCircledButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-     onTap: onTap,
+      onTap: onTap,
       highlightColor: Colors.transparent,
       child: Container(
         padding: const EdgeInsets.all(32),
@@ -26,18 +26,17 @@ class TajwidCircledButton extends StatelessWidget {
             text: title,
             children: [
               TextSpan(
-                text: titleAr,
-                style: const TextStyle(color: Colors.green, fontSize: 22)
-              ),
+                  text: titleAr,
+                  style: const TextStyle(color: Colors.green, fontSize: 22)),
             ],
           ),
         ),
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
           color: Colors.blue,
-          gradient:  RadialGradient(
+          gradient: RadialGradient(
             center: Alignment.topCenter,
-            focalRadius: 30 ,
+            focalRadius: 30,
             tileMode: TileMode.clamp,
             colors: [
               Colors.white,
