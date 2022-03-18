@@ -65,7 +65,7 @@ class CouchScreen extends StatelessWidget {
                 }),
             CouchButton(
                 title: 'Тажвид',
-                url: 'assets/couch/shahada.png',
+                url: 'assets/couch/tajwid.png',
                 onTap: () {
                   Navigator.of(context)
                       .push(MaterialPageRoute(builder: (context) {
@@ -74,7 +74,7 @@ class CouchScreen extends StatelessWidget {
                 }),
             CouchButton(
                 title: 'Араб тили',
-                url: 'assets/couch/namaz.png',
+                url: 'assets/couch/til.png',
                 onTap: () {
                   Navigator.of(context)
                       .push(MaterialPageRoute(builder: (context) {
