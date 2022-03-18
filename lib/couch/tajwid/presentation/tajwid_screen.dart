@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:muslim_app/couch/language/presentation/widgets/language_step_button.dart';
 import 'package:muslim_app/couch/tajwid/presentation/widgets/tajwid_circled_button.dart';
 
 class TajwidScreen extends StatelessWidget {
@@ -9,7 +8,7 @@ class TajwidScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.cyan[700],
       ),
       body: ListView(
         padding: const EdgeInsets.all(16),
@@ -56,7 +55,7 @@ class TajwidScreen extends StatelessWidget {
                     height: 60,
                     width: 120,
                     decoration: BoxDecoration(
-                        color: Colors.green,
+                        color: Colors.cyan[700],
                         borderRadius: BorderRadius.circular(20)),
                     child: const Center(
                       child: Text(
@@ -73,7 +72,7 @@ class TajwidScreen extends StatelessWidget {
                     height: 60,
                     width: 120,
                     decoration: BoxDecoration(
-                        color: Colors.green,
+                        color: Colors.cyan[700],
                         borderRadius: BorderRadius.circular(20)),
                     child: const Center(
                       child: Text(
@@ -93,7 +92,7 @@ class TajwidScreen extends StatelessWidget {
                     height: 60,
                     width: 120,
                     decoration: BoxDecoration(
-                        color: Colors.green,
+                        color: Colors.cyan[700],
                         borderRadius: BorderRadius.circular(20)),
                     child: const Center(
                       child: Text(
@@ -107,16 +106,30 @@ class TajwidScreen extends StatelessWidget {
                 InkWell(
                   onTap: () {},
                   child: Container(
-                    height: 60,
-                    width: 120,
                     decoration: BoxDecoration(
-                        color: Colors.green,
-                        borderRadius: BorderRadius.circular(20)),
-                    child: const Center(
-                      child: Text(
-                        'Ихфа',
-                        style: TextStyle(
-                            fontSize: 12, fontWeight: FontWeight.w600),
+                        color: Colors.cyan[700],
+                        borderRadius: BorderRadius.circular(24)),
+                    child: Container(
+                      margin: const EdgeInsets.all(3),
+                      decoration: BoxDecoration(
+                          color: Colors.white,
+                          borderRadius: BorderRadius.circular(22)),
+                      child: Container(
+                        height: 60,
+                        width: 120,
+                        margin: const EdgeInsets.all(3),
+                        decoration: BoxDecoration(
+                            color: Colors.cyan[700],
+                            borderRadius: BorderRadius.circular(20)),
+                        child: const Center(
+                          child: Text(
+                            'Ихфа',
+                            style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 15,
+                                fontWeight: FontWeight.w600),
+                          ),
+                        ),
                       ),
                     ),
                   ),
@@ -136,8 +149,12 @@ class TajwidScreen extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
-              TajwidCircledButton(title: 'Изхар', titleAr: 'الإظهار', onTap: (){},),
-                        ],
+              TajwidCircledButton(
+                title: 'Изхар',
+                titleAr: 'الإظهار',
+                onTap: () {},
+              ),
+            ],
           ),
         ],
       ),
