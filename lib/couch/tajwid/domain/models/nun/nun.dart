@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:muslim_app/couch/tajwid/domain/models/nun/nun_type.dart';
 
-
 class Nun {
   final int id;
   final String title;
@@ -83,4 +82,12 @@ class Nun {
         desc.hashCode ^
         types.hashCode;
   }
+
+  factory Nun.empty() => Nun(
+        id: 0,
+        title: '',
+        titleAr: '',
+        desc: '',
+        types: [],
+      );
 }

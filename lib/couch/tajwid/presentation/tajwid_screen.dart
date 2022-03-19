@@ -1,15 +1,31 @@
 import 'package:flutter/material.dart';
+import 'package:muslim_app/couch/tajwid/domain/models/tajwid/tajwid.dart';
+import 'package:muslim_app/couch/tajwid/infrastructure/repo/tajwid_repository.dart';
 import 'package:muslim_app/couch/tajwid/presentation/widgets/tajwid_circled_button.dart';
 
-class TajwidScreen extends StatelessWidget {
+class TajwidScreen extends StatefulWidget {
   const TajwidScreen({Key? key}) : super(key: key);
+
+  @override
+  State<TajwidScreen> createState() => _TajwidScreenState();
+}
+
+class _TajwidScreenState extends State<TajwidScreen> {
+  Tajwid tajwid = Tajwid.empty();
+
+  @override
+  void initState() {
+    super.initState();
+    getData();
+  }
+
+  void getData() async {
+    tajwid = await TajwidRepository().getDataFromAssets();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        elevation: 0,
-        backgroundColor: Colors.cyan[700],
-      ),
       body: ListView(
         padding: const EdgeInsets.all(16),
         children: [

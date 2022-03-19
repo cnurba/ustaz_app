@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:muslim_app/couch/tajwid/domain/models/mim/mim_type.dart';
 
-
 class Mim {
   final int id;
   final String title;
@@ -71,4 +70,11 @@ class Mim {
   int get hashCode {
     return id.hashCode ^ title.hashCode ^ titleAr.hashCode ^ types.hashCode;
   }
+
+  factory Mim.empty() => Mim(
+        id: 0,
+        title: '',
+        titleAr: '',
+        types: [],
+      );
 }

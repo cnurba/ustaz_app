@@ -76,4 +76,11 @@ class Kalkala {
   int get hashCode {
     return title.hashCode ^ desc.hashCode ^ examples.hashCode ^ types.hashCode;
   }
+
+  factory Kalkala.empty() => Kalkala(
+        title: '',
+        desc: '',
+        examples: [],
+        letters: [],
+      );
 }

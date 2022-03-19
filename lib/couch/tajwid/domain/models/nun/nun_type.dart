@@ -2,8 +2,6 @@ import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
 
-
-
 class NunType {
   final int id;
   final String title;

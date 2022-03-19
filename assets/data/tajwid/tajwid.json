@@ -155,7 +155,9 @@
             }
         ]
     },
-    "kalkala": {
+    "kalkala": 
+    
+    {
         "title": "",
         "desc": "",
         "examples": [],
