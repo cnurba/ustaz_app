@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
-import 'package:muslim_app/couch/tajwid/infrastructure/models/mim/mim_type.dart';
+import 'package:muslim_app/couch/tajwid/domain/models/mim/mim_type.dart';
+
 
 class Mim {
   final int id;
   final String title;
   final String titleAr;
-
   final List<MimType> types;
   Mim({
     required this.id,
