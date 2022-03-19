@@ -15,8 +15,8 @@ class _TajwidScreenState extends State<TajwidScreen> {
 
   @override
   void initState() {
-    super.initState();
     getData();
+    super.initState();
   }
 
   void getData() async {
@@ -29,149 +29,76 @@ class _TajwidScreenState extends State<TajwidScreen> {
       body: ListView(
         padding: const EdgeInsets.all(16),
         children: [
-          const Text(
-            'АРАЕКЕТ, СУКУН, СУКУНДУУ НУН ЖАНА ТАНВИН.',
-            textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
-          ),
-          const SizedBox(height: 18),
-          const Text(
-            'Сукун бул аракетсиз тамгалардын устуно койулуучу белги',
-            textAlign: TextAlign.left,
-            style: TextStyle(
-                color: Colors.grey, fontSize: 15, fontWeight: FontWeight.w500),
-          ),
-          const SizedBox(height: 10),
-          const Text(
-            'Аракет деген бул замма, фатха, кассра.',
-            style: TextStyle(
-                color: Colors.grey, fontSize: 15, fontWeight: FontWeight.w500),
-          ),
-          const SizedBox(height: 10),
-          const Text(
-            'Танвин деген бул эки замма, эки фатха, эки кассра.',
-            style: TextStyle(
-                color: Colors.grey, fontSize: 15, fontWeight: FontWeight.w500),
-          ),
-          const SizedBox(height: 20),
-          const Center(
-            child: Text(
-              'Сукундуу нун, танвин',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w700),
+          const SizedBox(height: kBottomNavigationBarHeight),
+          Card(
+            child: Column(
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(tajwid.name),
+                    Text(tajwid.nameAr),
+                  ],
+                ),
+                Text(tajwid.desc),
+              ],
             ),
           ),
-          const SizedBox(height: 25),
-          Column(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: [
-              Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
-                InkWell(
-                  onTap: () {},
-                  child: Container(
-                    height: 60,
-                    width: 120,
-                    decoration: BoxDecoration(
-                        color: Colors.cyan[700],
-                        borderRadius: BorderRadius.circular(20)),
-                    child: const Center(
-                      child: Text(
-                        'Изхар',
-                        style: TextStyle(
-                            fontSize: 12, fontWeight: FontWeight.w600),
-                      ),
-                    ),
-                  ),
-                ),
-                InkWell(
-                  onTap: () {},
-                  child: Container(
-                    height: 60,
-                    width: 120,
-                    decoration: BoxDecoration(
-                        color: Colors.cyan[700],
-                        borderRadius: BorderRadius.circular(20)),
-                    child: const Center(
-                      child: Text(
-                        'Иклаб',
-                        style: TextStyle(
-                            fontSize: 12, fontWeight: FontWeight.w600),
-                      ),
-                    ),
-                  ),
-                ),
-              ]),
-              const SizedBox(height: 20),
-              Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
-                InkWell(
-                  onTap: () {},
-                  child: Container(
-                    height: 60,
-                    width: 120,
-                    decoration: BoxDecoration(
-                        color: Colors.cyan[700],
-                        borderRadius: BorderRadius.circular(20)),
-                    child: const Center(
-                      child: Text(
-                        'Идхам',
-                        style: TextStyle(
-                            fontSize: 12, fontWeight: FontWeight.w600),
-                      ),
-                    ),
-                  ),
-                ),
-                InkWell(
-                  onTap: () {},
-                  child: Container(
-                    decoration: BoxDecoration(
-                        color: Colors.cyan[700],
-                        borderRadius: BorderRadius.circular(24)),
-                    child: Container(
-                      margin: const EdgeInsets.all(3),
-                      decoration: BoxDecoration(
-                          color: Colors.white,
-                          borderRadius: BorderRadius.circular(22)),
-                      child: Container(
-                        height: 60,
-                        width: 120,
-                        margin: const EdgeInsets.all(3),
-                        decoration: BoxDecoration(
-                            color: Colors.cyan[700],
-                            borderRadius: BorderRadius.circular(20)),
-                        child: const Center(
-                          child: Text(
-                            'Ихфа',
-                            style: TextStyle(
-                                color: Colors.white,
-                                fontSize: 15,
-                                fontWeight: FontWeight.w600),
-                          ),
-                        ),
-                      ),
-                    ),
-                  ),
-                ),
-              ]),
-            ],
+          ListTile(
+            horizontalTitleGap: 0,
+            title: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text("${tajwid.nun.id}"),
+                Text(tajwid.nun.title),
+                Text(tajwid.nun.titleAr),
+              ],
+            ),
+            subtitle: Text(tajwid.nun.desc),
           ),
-          const SizedBox(height: 20),
-          const Center(
-            child: Text('Сукундуу нун',
-                style: TextStyle(
-                  fontSize: 20,
-                  fontWeight: FontWeight.w700,
-                )),
+          ListTile(
+            horizontalTitleGap: 0,
+            title: Row(
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                Text("${tajwid.nun.types[0].id}"),
+                Text(tajwid.nun.types[0].title),
+                const Spacer(),
+                Text(tajwid.nun.types[0].titleAr),
+              ],
+            ),
+            subtitle: Text(tajwid.nun.desc),
           ),
-          const SizedBox(height: 20),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: [
-              TajwidCircledButton(
-                title: 'Изхар',
-                titleAr: 'الإظهار',
-                onTap: () {},
-              ),
-            ],
+          ListView.builder(
+            shrinkWrap: true,
+            itemCount: tajwid.nun.types[0].examples.length,
+            itemBuilder: (context, index) {
+              return Text(
+                tajwid.nun.types[0].examples[index],
+              );
+            },
           ),
+          ListView.builder(
+            shrinkWrap: true,
+            scrollDirection: Axis.vertical,
+            itemCount: tajwid.nun.types[0].letters.length,
+            itemBuilder: (context, index) {
+              return SizedBox(
+                width: 20,
+                child: Container(
+                  color: Colors.blue,
+                  constraints: BoxConstraints(maxHeight: 20, maxWidth: 20),
+                  margin: EdgeInsets.all(8),
+                  child: SizedBox(
+                    width: 20,
+                    child: Text(
+                      tajwid.nun.types[0].letters[index],
+                    ),
+                  ),
+                ),
+              );
+            },
+          )
         ],
       ),
     );

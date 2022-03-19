@@ -2,6 +2,8 @@ import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
 
+import 'package:muslim_app/couch/tajwid/domain/models/nun/idgam.dart';
+
 class NunType {
   final int id;
   final String title;
@@ -9,7 +11,7 @@ class NunType {
   final String desc;
   final List<String> letters;
   final List<String> examples;
-  final List<String> types;
+  final List<Idgam> types;
   NunType({
     required this.id,
     required this.title,
@@ -28,7 +30,7 @@ class NunType {
     String? desc,
     List<String>? letters,
     List<String>? examples,
-    List<String>? types,
+    List<Idgam>? types,
   }) {
     return NunType(
       id: id ?? this.id,
@@ -49,7 +51,7 @@ class NunType {
       'desc': desc,
       'letters': letters,
       'examples': examples,
-      'types': types,
+      'types': types.map((x) => x.toMap()).toList(),
     };
   }
 
@@ -61,7 +63,7 @@ class NunType {
       desc: map['desc'] ?? '',
       letters: List<String>.from(map['letters']),
       examples: List<String>.from(map['examples']),
-      types: List<String>.from(map['types']),
+      types: List<Idgam>.from(map['types']?.map((x) => Idgam.fromMap(x))),
     );
   }
 
