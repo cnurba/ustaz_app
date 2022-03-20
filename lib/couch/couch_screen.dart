@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:muslim_app/core/custom_page_route.dart';
 import 'package:muslim_app/couch/core/presentation/couch_button.dart';
 import 'package:muslim_app/couch/language/presentation/language_screen.dart';
 import 'package:muslim_app/couch/names/presentation/names_screen.dart';
@@ -34,7 +35,12 @@ class CouchScreen extends StatelessWidget {
                   }));
                 }),
             CouchButton(
-                title: 'Зикир', url: 'assets/couch/zikir.png', onTap: () {}),
+                title: 'Зикир',
+                url: 'assets/couch/zikir.png',
+                onTap: () {
+                  Navigator.of(context)
+                      .push(CustomPageRoute(child: const ZikrScreen()));
+                }),
             CouchButton(
               title: '99 Ысым',
               url: 'assets/couch/names.png',
