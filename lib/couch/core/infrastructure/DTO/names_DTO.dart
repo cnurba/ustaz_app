@@ -1,6 +1,7 @@
-import 'dart:convert';
 
-import 'package:muslim_app/couch/names/domain/names.dart';
+
+
+import 'package:muslim_app/couch/core/domain/models/name/names.dart';
 
 class NamesDTO {
   final String nameRu;
@@ -29,12 +30,7 @@ class NamesDTO {
     );
   }
 
-  String toJson() => json.encode(toMap());
-
-  factory NamesDTO.fromJson(String source) =>
-      NamesDTO.fromMap(json.decode(source));
-
-  
+    
   Names toDomain () => Names(nameRu: nameRu, nameAr: nameAr, description: description); 
 
 }

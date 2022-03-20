@@ -7,13 +7,13 @@ class ExampleWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
+    return examples.isNotEmpty? Column(
       mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         const Text(
           'Мисалдар:',
-          style: TextStyle(fontSize: 18),
+          style: TextStyle(fontSize: 16),
         ),
         GridView.builder(
           physics: const NeverScrollableScrollPhysics(),
@@ -29,13 +29,13 @@ class ExampleWidget extends StatelessWidget {
               child: Center(
                 child: Text(
                   examples[index],
-                  style: const TextStyle(fontSize: 22),
+                  style: const TextStyle(fontSize: 18),
                 ),
               ),
             );
           },
         ),
       ],
-    );
+    ):Container();
   }
 }

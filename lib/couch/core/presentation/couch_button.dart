@@ -11,9 +11,11 @@ class CouchButton extends StatelessWidget {
 
   /// Title of the button.
   final String title;
+
   /// Url address of image assets.
   final String url;
-  /// Action 
+
+  /// Action
   final VoidCallback? onTap;
 
   @override
@@ -22,21 +24,8 @@ class CouchButton extends StatelessWidget {
       focusColor: Colors.grey,
       onTap: onTap,
       child: Container(
-        decoration: BoxDecoration(
-            color: Colors.white,
-            borderRadius: BorderRadius.circular(20),
-            boxShadow: [
-              BoxShadow(
-                  color: Colors.grey.shade100,
-                  offset: const Offset(-5, -5),
-                  blurRadius: 1,
-                  spreadRadius: 1),
-              const BoxShadow(
-                  color: Colors.grey,
-                  offset: Offset(5, 5),
-                  blurRadius: 1,
-                  spreadRadius: 1),
-            ]),
+        decoration: const BoxDecoration(
+            color: Colors.greenAccent, shape: BoxShape.circle),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [

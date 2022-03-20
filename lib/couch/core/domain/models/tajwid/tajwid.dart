@@ -1,10 +1,11 @@
 import 'dart:convert';
 
-import 'package:flutter/foundation.dart';
 
-import 'package:muslim_app/couch/tajwid/domain/models/kalkala/kalkala.dart';
-import 'package:muslim_app/couch/tajwid/domain/models/mim/mim.dart';
-import 'package:muslim_app/couch/tajwid/domain/models/nun/nun.dart';
+import 'package:muslim_app/couch/core/domain/models/kalkala/kalkala.dart';
+import 'package:muslim_app/couch/core/domain/models/mim/mim.dart';
+import 'package:muslim_app/couch/core/domain/models/nun/nun.dart';
+
+
 
 class Tajwid {
   final String name;

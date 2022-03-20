@@ -1,7 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
-import 'package:muslim_app/couch/tajwid/domain/models/nun/nun_type.dart';
+import 'package:muslim_app/couch/core/domain/models/nun/nun_type.dart';
+
 
 class Nun {
   final int id;

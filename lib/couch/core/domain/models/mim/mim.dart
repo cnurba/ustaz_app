@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
-import 'package:muslim_app/couch/tajwid/domain/models/mim/mim_type.dart';
+import 'package:muslim_app/couch/core/domain/models/mim/mim_type.dart';
+
 
 class Mim {
   final int id;

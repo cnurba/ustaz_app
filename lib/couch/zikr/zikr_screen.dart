@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:muslim_app/couch/core/infrastructure/couch_repository.dart';
-import 'package:muslim_app/couch/zikr/domain/zikr.dart';
+import 'package:flutter/services.dart';
+import 'package:muslim_app/couch/core/domain/models/zikr/zikr.dart';
+
+import 'package:muslim_app/couch/core/infrastructure/repo/couch_repository.dart';
+
+import 'package:muslim_app/couch/zikr/widgets/zikr_tile.dart';
 
 class ZikrScreen extends StatefulWidget {
   const ZikrScreen({Key? key}) : super(key: key);
@@ -15,7 +19,11 @@ class _ZikrScreenState extends State<ZikrScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        backgroundColor: Colors.green,
+        title: const Text('Зикр'),
+        centerTitle: true,
+      ),
       body: FutureBuilder<List<Zikr>>(
           future: CouchRepository().getZikras(),
           builder: (context, snapshot) {
@@ -25,38 +33,11 @@ class _ZikrScreenState extends State<ZikrScreen> {
                 physics: const BouncingScrollPhysics(),
                 itemBuilder: (context, index) {
                   final zikr = snapshot.data![index];
-                  return ListTile(
-                    title: Text(
-                      zikr.nameAr,
-                      textAlign: TextAlign.right,
-                      textDirection: TextDirection.rtl,
-                      style: const TextStyle(
-                        color: Colors.black,
-                        fontSize: 22,
-                        fontWeight: FontWeight.w700,
-                      ),
-                    ),
-                    subtitle: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(
-                          zikr.name,
-                          textAlign: TextAlign.left,
-                          textDirection: TextDirection.ltr,
-                        ),
-
-                        Text(
-                          zikr.nameKg,
-                          textAlign: TextAlign.left,
-                          textDirection: TextDirection.ltr,
-                           style: const TextStyle(
-                        color: Colors.black,
-                        fontSize: 22,
-                        fontWeight: FontWeight.w700,
-                      ),
-                        ),
-                      ],
-                    ),
+                  return ZikrTile(
+                    onTap: () {
+                      HapticFeedback.vibrate();
+                    },
+                    zikr: zikr,
                   );
                 },
                 separatorBuilder: (context, index) => const Divider(),

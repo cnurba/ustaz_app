@@ -1,5 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:muslim_app/couch/core/presentation/couch_back_button.dart';
 import 'package:muslim_app/couch/language/presentation/widgets/language_step_button.dart';
 
 class LanguageScreen extends StatelessWidget {
@@ -7,22 +7,41 @@ class LanguageScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        elevation: 3,
-        backgroundColor: Colors.white,
-      ),
-      body: ListView(
-        padding: const EdgeInsets.all(16),
+      body: Stack(
         children: [
-          LanguageStepButton(title: 'Бул\nэмне?'),
-          const SizedBox(height: 20),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
+          ListView(
+            padding:
+                const EdgeInsets.all(16).add(const EdgeInsets.only(top: 30)),
             children: const [
+              Text(
+                'Араб тили I',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  color: Colors.green,
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              SizedBox(height: 20),
+              LanguageStepButton(title: 'Бул\nэмне?'),
+
               LanguageStepButton(title: 'Тааны\nшуу?'),
               LanguageStepButton(title: 'Агай?'),
+
+              // Row(
+              //   mainAxisAlignment: MainAxisAlignment.spaceAround,
+              //   children: const [
+              //     LanguageStepButton(title: 'Тааны\nшуу?'),
+              //     LanguageStepButton(title: 'Агай?'),
+              //   ],
+              // ),
             ],
           ),
+          const Positioned(
+            top: 30,
+            left: 10,
+            child:  CouchBackButton(),
+          )
         ],
       ),
     );

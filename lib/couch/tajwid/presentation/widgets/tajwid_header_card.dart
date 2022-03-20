@@ -31,14 +31,14 @@ class TajwidHeaderCard extends StatelessWidget {
                 title,
                 textAlign: TextAlign.left,
                 style: const TextStyle(
-                  fontSize: 18,
+                  fontSize: 16,
                   fontWeight: FontWeight.w700,
                 ),
               ),
               Text(
                 titleAr,
                 style: const TextStyle(
-                  fontSize: 24,
+                  fontSize: 16,
                   fontWeight: FontWeight.w800,
                 ),
               ),
@@ -47,7 +47,7 @@ class TajwidHeaderCard extends StatelessWidget {
           Text(
             desc,
             style: const TextStyle(
-              fontSize: 15,
+              fontSize: 14,
               fontWeight: FontWeight.w600,
               color: Colors.black26,
             ),
