@@ -1,7 +1,4 @@
-
 import 'dart:convert';
-
-
 
 class Idgam {
   final int id;
@@ -16,7 +13,7 @@ class Idgam {
     required this.desc,
     required this.letters,
   });
-  
+
   factory Idgam.empty() => Idgam(
         id: 0,
         title: '',
@@ -49,4 +46,3 @@ class Idgam {
 
   factory Idgam.fromJson(String source) => Idgam.fromMap(json.decode(source));
 }
-

@@ -13,6 +13,8 @@ class TajwidRepository implements ITajwidRepository {
 
     final parsedTajwid = jsonDecode(_tajwidString) as Map<String, dynamic>;
 
+    await Future.delayed(const Duration(milliseconds: 200));
+
     final _tajwid = Tajwid.fromMap(parsedTajwid);
 
     return _tajwid;

@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
 
-class LettersWidget extends StatelessWidget {
-  const LettersWidget({
-    Key? key,
-    required this.letters,
-  }) : super(key: key);
+class ExampleWidget extends StatelessWidget {
+  const ExampleWidget({Key? key, required this.examples}) : super(key: key);
 
-  final List<String> letters;
+  final List<String> examples;
 
   @override
   Widget build(BuildContext context) {
@@ -15,23 +12,23 @@ class LettersWidget extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         const Text(
-          'Тамгалар:',
+          'Мисалдар:',
           style: TextStyle(fontSize: 18),
         ),
         GridView.builder(
           physics: const NeverScrollableScrollPhysics(),
           shrinkWrap: true,
-          itemCount: letters.length,
+          itemCount: examples.length,
           gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
             maxCrossAxisExtent: 100,
             childAspectRatio: 3 / 2,
           ),
           itemBuilder: (context, index) {
             return Card(
-              color: const Color.fromARGB(255, 192, 119, 118),
+              color: Colors.greenAccent,
               child: Center(
                 child: Text(
-                  letters[index],
+                  examples[index],
                   style: const TextStyle(fontSize: 22),
                 ),
               ),

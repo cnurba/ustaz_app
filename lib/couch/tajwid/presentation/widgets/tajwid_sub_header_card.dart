@@ -24,7 +24,7 @@ class TajwidSubHeaderCard extends StatelessWidget {
         padding: const EdgeInsets.all(12),
         margin: const EdgeInsets.symmetric(vertical: 6),
         decoration: BoxDecoration(
-          color: Colors.green,
+          color: Colors.transparent,
           borderRadius: BorderRadius.circular(14),
         ),
         child: Column(
