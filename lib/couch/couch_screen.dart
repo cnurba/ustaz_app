@@ -4,7 +4,9 @@ import 'package:muslim_app/couch/core/presentation/couch_button.dart';
 import 'package:muslim_app/couch/daarat/daarat_screen.dart';
 import 'package:muslim_app/couch/dua/dua_screen.dart';
 import 'package:muslim_app/couch/language/presentation/language_screen.dart';
+import 'package:muslim_app/couch/namaz/namaz_screen.dart';
 import 'package:muslim_app/couch/names/presentation/names_screen.dart';
+import 'package:muslim_app/couch/shahada/shahada_screen.dart';
 import 'package:muslim_app/couch/zikr/zikr_screen.dart';
 
 import 'tajwid/presentation/tajwid_screen.dart';
@@ -46,22 +48,26 @@ class CouchScreen extends StatelessWidget {
                 title: 'Шахада',
                 url: 'assets/couch/shahada.png',
                 onTap: () {
-                  // Navigator.of(context)
-                  //     .push(MaterialPageRoute(builder: (context) {
-                  //   return const ShahadatWidget();
-                  // }));
+                  Navigator.of(context)
+                      .push(CustomPageRoute(child: const ShahadaScreen()));
                 }),
             CouchButton(
-                title: 'Даарат', url: 'assets/couch/daarat.png', onTap: () {
-                 Navigator.of(context)
-                    .push(CustomPageRoute(child: const DaaratScreen()));
-
+                title: 'Даарат',
+                url: 'assets/couch/daarat.png',
+                onTap: () {
+                  Navigator.of(context)
+                      .push(CustomPageRoute(child: const DaaratScreen()));
                 }),
             CouchButton(
-                title: 'Намаз', url: 'assets/couch/namaz.png', onTap: () {}),
+                title: 'Намаз',
+                url: 'assets/couch/namaz.png',
+                onTap: () {
+                  Navigator.of(context)
+                      .push(CustomPageRoute(child: const NamazScreen()));
+                }),
             // CouchButton(
             //     title: 'Хадис', url: 'assets/couch/hadis.jpeg', onTap: () {}),
-           
+
             CouchButton(
               title: 'Зикир',
               url: 'assets/couch/zikir.png',
@@ -81,8 +87,8 @@ class CouchScreen extends StatelessWidget {
                     ),
                   );
                 }),
-           
-           CouchButton(
+
+            CouchButton(
                 title: 'Тажвид',
                 url: 'assets/couch/tajwid.png',
                 onTap: () {

@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:muslim_app/core/custom_page_route.dart';
 import 'package:muslim_app/couch/core/domain/models/zikr/zikr.dart';
 
 import 'package:muslim_app/couch/core/infrastructure/repo/couch_repository.dart';
 
 import 'package:muslim_app/couch/zikr/widgets/zikr_tile.dart';
+import 'package:muslim_app/couch/zikr/zikr_detail_screen.dart';
 
 class ZikrScreen extends StatefulWidget {
   const ZikrScreen({Key? key}) : super(key: key);
@@ -35,7 +37,11 @@ class _ZikrScreenState extends State<ZikrScreen> {
                   final zikr = snapshot.data![index];
                   return ZikrTile(
                     onTap: () {
-                      HapticFeedback.vibrate();
+                      //HapticFeedback.vibrate();
+                      Navigator.of(context).push(CustomPageRoute(
+                          child: ZikirDetailScrren(
+                        zikr: zikr,
+                      )));
                     },
                     zikr: zikr,
                   );

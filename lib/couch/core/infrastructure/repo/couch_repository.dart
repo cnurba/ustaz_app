@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:muslim_app/couch/core/domain/models/daarat/daarat.dart';
 import 'package:muslim_app/couch/core/domain/models/dua/dua.dart';
+import 'package:muslim_app/couch/core/domain/models/namaz/namaz.dart';
 import 'package:muslim_app/couch/core/domain/models/name/names.dart';
 
 import 'package:muslim_app/couch/core/domain/models/tajwid/tajwid.dart';
@@ -96,5 +97,24 @@ class CouchRepository extends ICouchRepository {
     }
 
     return _daarats;
+  }
+
+  @override
+  Future<List<Namaz>> getNamazes() async {
+    final _jsonString =
+        await rootBundle.loadString('assets/data/namaz/namaz_kg.json');
+
+    final parsedJson = jsonDecode(_jsonString) as List<dynamic>;
+
+    await Future.delayed(const Duration(milliseconds: 200));
+
+    List<Namaz> _namazes = [];
+
+    for (final itemJson in parsedJson) {
+      final namaz = Namaz.fromMap(itemJson);
+      _namazes.add(namaz);
+    }
+
+    return _namazes;
   }
 }

@@ -1,0 +1,3178 @@
+[
+  {
+    "name": "Фаджр",
+    "imageUrl": "assets/tutorials/namaz/list/fadjr.png",
+    "steps": [
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 1,
+        "step": 1,
+        "description": "Жузун кыбыла тарапка буруп. Ниет кылдым багымдат намазынын эки рекет сунотун калыс Аллах учун окууга",
+        "prays" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 1,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "prays" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 1,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "prays" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 1,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "prays" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step5.svg",
+        "rakat": 1,
+        "step": 5,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "prays" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": "assets/tutorials/namaz/audio/ihlas.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 1,
+        "step": 6,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "prays" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 1,
+        "step": 7,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step8.svg",
+        "rakat": 1,
+        "step": 8,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 1,
+        "step": 9,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 1,
+        "step": 10,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 1,
+        "step": 11,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 1,
+        "step": 12,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 1,
+        "step": 13,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 1,
+        "step": 14,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 1,
+        "step": 15,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 2,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 2,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 2,
+        "step": 3,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": "assets/tutorials/namaz/audio/ihlas.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 2,
+        "step": 4,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 2,
+        "step": 5,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 2,
+        "step": 6,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step9.svg",
+        "rakat": 2,
+        "step": 7,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 2,
+        "step": 8,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 9,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 2,
+        "step": 10,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 2,
+        "step": 11,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 2,
+        "step": 12,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step19.svg",
+        "rakat": 2,
+        "step": 14,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 15,
+        "description": "Молящийся произносит саляват:",
+        "namazPray" : {
+          "prayAr":"اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌمَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَحَمِيدٌ مَجِيدٌ",
+          "prayRu": "О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима и семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их Ибрахиму и семейству Ибрахима поистине, Ты — Достойный похвалы, Славный!",
+          "prayTranscription":"Аллахумма салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма саллейта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун Аллахумма барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун",
+          "trackUrl": "assets/tutorials/namaz/audio/salavat.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step21.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "Он поворачивает голову направо и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step22.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "Он поворачивает голову налево и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      }
+
+    ]
+  },
+  {
+    "name": "Зухр",
+    "imageUrl": "assets/tutorials/namaz/list/zuhr.png",
+    "namazSteps": [
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 1,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 1,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 1,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 1,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step5.svg",
+        "rakat": 1,
+        "step": 5,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": "assets/tutorials/namaz/audio/ihlas.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 1,
+        "step": 6,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step7.svg",
+        "rakat": 1,
+        "step": 7,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 1,
+        "step": 8,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 1,
+        "step": 9,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 1,
+        "step": 10,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 1,
+        "step": 11,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 1,
+        "step": 12,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 1,
+        "step": 13,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 1,
+        "step": 14,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 1,
+        "step": 15,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 2,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 2,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 2,
+        "step": 3,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": ""
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 2,
+        "step": 4,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 2,
+        "step": 5,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 2,
+        "step": 6,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 2,
+        "step": 7,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 2,
+        "step": 8,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 9,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 2,
+        "step": 10,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 2,
+        "step": 11,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 2,
+        "step": 12,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step19.svg",
+        "rakat": 2,
+        "step": 14,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 3,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 3,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 3,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 3,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 3,
+        "step": 5,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 3,
+        "step": 6,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 3,
+        "step": 7,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 3,
+        "step": 8,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 9,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 10,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 11,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step11.svg",
+        "rakat": 3,
+        "step": 12,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 13,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 3,
+        "step": 14,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 4,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step3.svg",
+        "rakat": 4,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 4,
+        "step": 3,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 4,
+        "step": 4,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 4,
+        "step": 5,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 4,
+        "step": 6,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step14.svg",
+        "rakat": 4,
+        "step": 7,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 4,
+        "step": 8,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 4,
+        "step": 9,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step15.svg",
+        "rakat": 4,
+        "step": 10,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step15.svg",
+        "rakat": 4,
+        "step": 11,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 4,
+        "step": 12,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step19.svg",
+        "rakat": 4,
+        "step": 13,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 4,
+        "step": 14,
+        "description": "Молящийся произносит саляват:",
+        "namazPray" : {
+          "prayAr":"اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌمَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَحَمِيدٌ مَجِيدٌ",
+          "prayRu": "О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима и семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их Ибрахиму и семейству Ибрахима поистине, Ты — Достойный похвалы, Славный!",
+          "prayTranscription":"Аллахумма салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма саллейта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун Аллахумма барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун",
+          "trackUrl": "assets/tutorials/namaz/audio/salavat.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step21.svg",
+        "rakat": 4,
+        "step": 15,
+        "description": "Он поворачивает голову направо и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step22.svg",
+        "rakat": 4,
+        "step": 16,
+        "description": "Он поворачивает голову налево и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      }
+
+    ]
+  },
+  {
+    "name": "Аср",
+    "imageUrl": "assets/tutorials/namaz/list/asr.png",
+    "namazSteps": [
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 1,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 1,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 1,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 1,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step5.svg",
+        "rakat": 1,
+        "step": 5,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": "assets/tutorials/namaz/audio/ihlas.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 1,
+        "step": 6,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step7.svg",
+        "rakat": 1,
+        "step": 7,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 1,
+        "step": 8,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 1,
+        "step": 9,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 1,
+        "step": 10,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 1,
+        "step": 11,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 1,
+        "step": 12,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 1,
+        "step": 13,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 1,
+        "step": 14,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 1,
+        "step": 15,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 2,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 2,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 2,
+        "step": 3,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": ""
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 2,
+        "step": 4,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 2,
+        "step": 5,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 2,
+        "step": 6,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 2,
+        "step": 7,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 2,
+        "step": 8,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 9,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 2,
+        "step": 10,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 2,
+        "step": 11,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 2,
+        "step": 12,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step19.svg",
+        "rakat": 2,
+        "step": 14,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 3,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 3,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 3,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 3,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 3,
+        "step": 5,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 3,
+        "step": 6,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 3,
+        "step": 7,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 3,
+        "step": 8,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 9,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 10,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 11,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step11.svg",
+        "rakat": 3,
+        "step": 12,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 13,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 3,
+        "step": 14,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 4,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step3.svg",
+        "rakat": 4,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 4,
+        "step": 3,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 4,
+        "step": 4,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 4,
+        "step": 5,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 4,
+        "step": 6,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step14.svg",
+        "rakat": 4,
+        "step": 7,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 4,
+        "step": 8,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 4,
+        "step": 9,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step15.svg",
+        "rakat": 4,
+        "step": 10,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step15.svg",
+        "rakat": 4,
+        "step": 11,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 4,
+        "step": 12,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step19.svg",
+        "rakat": 4,
+        "step": 13,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 4,
+        "step": 14,
+        "description": "Молящийся произносит саляват:",
+        "namazPray" : {
+          "prayAr":"اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌمَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَحَمِيدٌ مَجِيدٌ",
+          "prayRu": "О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима и семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их Ибрахиму и семейству Ибрахима поистине, Ты — Достойный похвалы, Славный!",
+          "prayTranscription":"Аллахумма салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма саллейта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун Аллахумма барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун",
+          "trackUrl": "assets/tutorials/namaz/audio/salavat.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step21.svg",
+        "rakat": 4,
+        "step": 15,
+        "description": "Он поворачивает голову направо и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step22.svg",
+        "rakat": 4,
+        "step": 16,
+        "description": "Он поворачивает голову налево и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Магриб",
+    "imageUrl": "assets/tutorials/namaz/list/magrib.png",
+    "namazSteps": [
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 1,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 1,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 1,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 1,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step5.svg",
+        "rakat": 1,
+        "step": 5,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": "assets/tutorials/namaz/audio/ihlas.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 1,
+        "step": 6,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step7.svg",
+        "rakat": 1,
+        "step": 7,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 1,
+        "step": 8,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 1,
+        "step": 9,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 1,
+        "step": 10,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 1,
+        "step": 11,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 1,
+        "step": 12,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 1,
+        "step": 13,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 1,
+        "step": 14,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 1,
+        "step": 15,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 2,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 2,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 2,
+        "step": 3,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": ""
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 2,
+        "step": 4,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 2,
+        "step": 5,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 2,
+        "step": 6,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 2,
+        "step": 7,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 2,
+        "step": 8,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 9,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 2,
+        "step": 10,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 2,
+        "step": 11,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 2,
+        "step": 12,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step19.svg",
+        "rakat": 2,
+        "step": 14,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 3,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 3,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 3,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 3,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 3,
+        "step": 5,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 3,
+        "step": 6,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 3,
+        "step": 7,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 3,
+        "step": 8,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 9,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 10,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 11,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step11.svg",
+        "rakat": 3,
+        "step": 12,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 13,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 3,
+        "step": 14,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step19.svg",
+        "rakat": 3,
+        "step": 15,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 16,
+        "description": "Молящийся произносит саляват:",
+        "namazPray" : {
+          "prayAr":"اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌمَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَحَمِيدٌ مَجِيدٌ",
+          "prayRu": "О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима и семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их Ибрахиму и семейству Ибрахима поистине, Ты — Достойный похвалы, Славный!",
+          "prayTranscription":"Аллахумма салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма саллейта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун Аллахумма барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун",
+          "trackUrl": "assets/tutorials/namaz/audio/salavat.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step21.svg",
+        "rakat": 3,
+        "step": 17,
+        "description": "Он поворачивает голову направо и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step22.svg",
+        "rakat": 3,
+        "step": 18,
+        "description": "Он поворачивает голову налево и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ишаа",
+    "imageUrl": "assets/tutorials/namaz/list/isha.png",
+    "namazSteps": [
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 1,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 1,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 1,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 1,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step5.svg",
+        "rakat": 1,
+        "step": 5,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": "assets/tutorials/namaz/audio/ihlas.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 1,
+        "step": 6,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step7.svg",
+        "rakat": 1,
+        "step": 7,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 1,
+        "step": 8,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 1,
+        "step": 9,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 1,
+        "step": 10,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 1,
+        "step": 11,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 1,
+        "step": 12,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 1,
+        "step": 13,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 1,
+        "step": 14,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 1,
+        "step": 15,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 2,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 2,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 2,
+        "step": 3,
+        "description": "После сура Аль-Фатиха можно читать Суры:Аль-Ихляс,Аль-Фаляк,Ан-Нас и.т.л",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِقُلْ هُوَ اللَّـهُ أَحَدٌ {1} اللَّـهُ الصَّمَدُ {2} لَمْ يَلِدْ وَلَمْ يُولَدْ {3وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ {4}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Скажи: «Он - Аллах Единый, Аллах Самодостаточный. Он не родил и не был рожден, и нет никого равного Ему».",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Куль хува Ллаху ахад Аллаху с-самад лям йалид ва лям йуляд ва лям йакуль ля-ху куфуван ахад",
+          "trackUrl": ""
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 2,
+        "step": 4,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 2,
+        "step": 5,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 2,
+        "step": 6,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 2,
+        "step": 7,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 2,
+        "step": 8,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 9,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 2,
+        "step": 10,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step14.svg",
+        "rakat": 2,
+        "step": 11,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step15.svg",
+        "rakat": 2,
+        "step": 12,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 2,
+        "step": 13,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step19.svg",
+        "rakat": 2,
+        "step": 14,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step1.svg",
+        "rakat": 3,
+        "step": 1,
+        "description": "Стоя, он устремляет взор на то место, которого коснется его голова во время земного поклона,поднимает руки до уровня ушей или плеч и говорит:",
+        "namazPray" : {
+          "prayAr":"ٱللَّٰهُ أَكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху Акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 3,
+        "step": 2,
+        "description": "Он складывает руки на груди, возлагая правую руку поверх левой, и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺃﻋُﻮﺫُ بِاللَّهِ ﻣِﻦَ ﺍﻟﺸَّﻴْﻄَﺎﻥِ ﺍﻟﺮَّﺟِﻴﻢ",
+          "prayRu": "Ищу у Аллаха защиты от проклятого шайтана",
+          "prayTranscription":"А'узу би-Лляхи мин аш-шайтани р-раджим",
+          "trackUrl": "assets/tutorials/namaz/audio/auzu.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step3.svg",
+        "rakat": 3,
+        "step": 3,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step4.svg",
+        "rakat": 3,
+        "step": 4,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 3,
+        "step": 5,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 3,
+        "step": 6,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 3,
+        "step": 7,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 3,
+        "step": 8,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 9,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 10,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 3,
+        "step": 11,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step11.svg",
+        "rakat": 3,
+        "step": 12,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step10.svg",
+        "rakat": 3,
+        "step": 13,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step16.svg",
+        "rakat": 3,
+        "step": 14,
+        "description": "Молящийся поднимается из земного поклона, вставая со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step2.svg",
+        "rakat": 4,
+        "step": 1,
+        "description": "Читает суру Аль-Фатиха",
+        "namazPray" : {
+          "prayAr":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ {1}الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ {2} الرَّحْمَـٰنِ الرَّحِيمِ {3} مَالِكِ يَوْمِ الدِّينِ {4} إِيَّاكَ نَعْبُدُ وَإِيَّاكَنَسْتَعِينُ {5} اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ {6} صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْوَلَا الضَّالِّينَ {7}",
+          "prayRu": "С именем Аллаха, Милостивого, Милосердного!Хвала Аллаху, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путем, путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших.",
+          "prayTranscription":"Би-сми Лляхи р-Рахмани р-Рахим Аль-хамду ли-Лляхи рабби ль-‘алямин Ар-Рахмани р-Рахим Малики йауми д-дин Иййака на‘буду ва иййака наста‘ин Ихди-на с-сырата ль-мустакым Сырат аллязина ан‘амта ‘алей-хим гайри ль-магдуби ‘алей-хим ва ля д-даллин",
+          "trackUrl": "assets/tutorials/namaz/audio/fatiha.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step3.svg",
+        "rakat": 4,
+        "step": 2,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺁﻣِﻴﻦْ",
+          "prayRu": "О Аллах, ответь на наши мольбы!",
+          "prayTranscription":"Амин!",
+          "trackUrl": "assets/tutorials/namaz/audio/amin.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step6.svg",
+        "rakat": 4,
+        "step": 3,
+        "description": "Стоя, он поднимает руки до уровня ушей или плеч, повернув их ладонями от себя, после чего говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step7.svg",
+        "rakat": 4,
+        "step": 4,
+        "description": "Он совершает поясной поклон и, застыв в нем, трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺳُﺒْﺤَﺎﻥَ ﺭَﺑِّﻲَﺍﻟﻌَﻈﻴﻢ",
+          "prayRu": "Пречист Господь мой Великий",
+          "prayTranscription":"Субхана Раббийа ль-‘Азым",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_robbiyal_azeem.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step8.svg",
+        "rakat": 4,
+        "step": 5,
+        "description": "Он поднимает руки до уровня плеч или ушей и выпрямляется со словами:",
+        "namazPray" : {
+          "prayAr":"ﺳَﻤِﻊَ اللَّهُ ﻟِﻤَﻦْ ﺣَﻤِﺪَﻩُ",
+          "prayRu": "Слышит Аллах того, кто восхваляет Его",
+          "prayTranscription":"Сами‘а Ллаху ли-ман хамидах",
+          "trackUrl": "assets/tutorials/namaz/audio/samu_Allohu_liman_hamidah.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step9.svg",
+        "rakat": 4,
+        "step": 6,
+        "description": "Полностью выпрямившись, он говорит:",
+        "namazPray" : {
+          "prayAr":"ﺭَﺑَّﻨَﺎ وَ ﻟَﻚَ ﺍﻟْﺤَﻤْﺪُ",
+          "prayRu": "Господь наш, Тебе хвала!",
+          "prayTranscription":"Рабба-на ва ля-ка ль-хамд",
+          "trackUrl": "assets/tutorials/namaz/audio/robbana_wa_lakal_hamd.mp3"
+        }
+      },
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step14.svg",
+        "rakat": 4,
+        "step": 7,
+        "description": "Он снова совершает земной поклон, и в таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَالأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 4,
+        "step": 8,
+        "description": "Он поднимает голову со словами:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 4,
+        "step": 9,
+        "description": "Затем садится так: простирает левую ступню, садится на неё, а правую ставит вертикально, направляя пальцы в сторону киблы. Руки покоятся на коленях. Сев так, он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"ﺭبِّ ﺍﻏْﻔِﺮْ ﻟِﻲ",
+          "prayRu": "Господь мой, прости меня",
+          "prayTranscription":"Рабби гфир-ли",
+          "trackUrl": "assets/tutorials/namaz/audio/robbighfirli.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step15.svg",
+        "rakat": 4,
+        "step": 10,
+        "description": "Он снова совершает земной поклон, принимая положение сажды, и произнося при этом:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl":"assets/tutorials/namaz/step/step15.svg",
+        "rakat": 4,
+        "step": 11,
+        "description": "В таком положении он трижды произносит:",
+        "namazPray" : {
+          "prayAr":"سُبْحَانَ رَبِّيَلأأعْلَي",
+          "prayRu": "Пречист Господь мой Высочайший",
+          "prayTranscription":"Субхана Раббийа ль-А‘ля",
+          "trackUrl": "assets/tutorials/namaz/audio/subhana_Robbiyal_ala.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step13.svg",
+        "rakat": 4,
+        "step": 12,
+        "description": "После этого он говорит:",
+        "namazPray" : {
+          "prayAr":"اللَّهُ اكْبَرُ",
+          "prayRu": "Аллах велик",
+          "prayTranscription":"Аллаху акбар",
+          "trackUrl": "assets/tutorials/namaz/audio/allohu_akbar.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step19.svg",
+        "rakat": 4,
+        "step": 13,
+        "description": "После этого он не встаёт, а остаётся сидеть, как между двумя земными поклонами. В положении сидя он поднимает указательный палец сжатой в кулак правой руки, направляя его в сторону киблы, обращает на него взор и шёпотом произносит ташаххуд:",
+        "namazPray" : {
+          "prayAr":"لتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَاوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "prayRu": "Приветствия Аллаху, и молитвы, и лучшие слова, мир тебе, о Пророк, и милость Аллаха, и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.",
+          "prayTranscription":"Ат-тахиййату ли-Лляхи ва-с-салявату ва-т-таййибату ас-саляму ‘алей-ка аййуха н-набиййу ва рахмату Ллахи ва баракяту-ху ас-саляму ‘алей-на ва ‘аля ‘ибади Лляхи с-салихина Ашхаду ан ля иляха илля Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху",
+          "trackUrl": "assets/tutorials/namaz/audio/attahiyyatu.mp3"
+        }
+      },
+
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step12.svg",
+        "rakat": 4,
+        "step": 14,
+        "description": "Молящийся произносит саляват:",
+        "namazPray" : {
+          "prayAr":"اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌمَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَحَمِيدٌ مَجِيدٌ",
+          "prayRu": "О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима и семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их Ибрахиму и семейству Ибрахима поистине, Ты — Достойный похвалы, Славный!",
+          "prayTranscription":"Аллахумма салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма саллейта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун Аллахумма барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима ва ‘аля али Ибрахима инна-ка Хамидун Маджидун",
+          "trackUrl": "assets/tutorials/namaz/audio/salavat.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step21.svg",
+        "rakat": 4,
+        "step": 15,
+        "description": "Он поворачивает голову направо и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      },
+      {
+        "imageUrl": "assets/tutorials/namaz/step/step22.svg",
+        "rakat": 4,
+        "step": 16,
+        "description": "Он поворачивает голову налево и говорит:",
+        "namazPray" : {
+          "prayAr":"ﺍﻟﺴَّﻼﻡُ ﻋَﻠَﻴْﻜُﻢﻭَﺭَﺣْﻤَﺔُ اللَّهِ",
+          "prayRu": "Мир вам и милость Аллаха",
+          "prayTranscription":"Ас-саляму ‘алей-кум ва рахмату Ллах",
+          "trackUrl": "assets/tutorials/namaz/audio/assalamu_aleikum.mp3"
+        }
+      }
+    ]
+  }
+]
